@@ -1,13 +1,23 @@
-The MIT License (MIT)
+emsCharts Mobile v3 License
 
 Copyright (c) 2015 emsCharts
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+of this software and associated documentation files (the "Software"), the rights
+to use, copy, modify, distribute, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
+1) The person(s) must obtain a username & password account through emsCharts, Inc
+or one of its authorized resellers.
+
+2) The Software cannot be published on any network for download, as all
+copies must be obtained directly through http://www.getmobile3.com, 
+http://www.emscharts.com, https://www.github.com/emsCharts, or a subdirectory
+of these sites.
+
+3) The Software modifications are limited to the configuration files as outlined
+in the associated documentation files and no direct database alteration is
+permitted unless directed by a member of the emsCharts, Inc. staff.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
